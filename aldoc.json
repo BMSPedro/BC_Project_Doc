@@ -1,0 +1,10 @@
+﻿{
+  "Modules": [
+    {
+      "AppId": "50b60b1d-6550-4cec-903a-48f4093022a8",
+      "Name": "MS Project Interface",
+      "Publisher": "Axians BMS",
+      "Version": "1.0.0.0"
+    }
+  ]
+}

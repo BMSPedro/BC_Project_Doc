@@ -1,0 +1,16 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"Job Card"'
+alId: ID 70001
+baseKind: Page
+kind: PageExtension
+parent: 'N:Module::MS_Project_Interface::Namespace::'
+langs:
+- al
+extends:
+  name: Microsoft.Projects.Project.Job."Job Card"
+  isExternal: true
+seeAlso:
+- '[Page Extension](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-page-ext-object)'
+commentId: O:PageExtension::Job Card
+name: '"Job Card"'
+uid: O:PageExtension::Job_Card

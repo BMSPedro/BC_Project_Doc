@@ -1,0 +1,68 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"Job Setup"'
+alId: ID 70001
+baseKind: Table
+kind: TableExtension
+parent: 'N:Module::MS_Project_Interface::Namespace::'
+langs:
+- al
+extends:
+  name: Microsoft.Projects.Project.Setup."Jobs Setup"
+  isExternal: true
+seeAlso:
+- '[Table Extension](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-table-ext-object)'
+fields:
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"MS Project for the Web URL"'
+  uid: F:TableExtension::Job_Setup.MS_Project_for_the_Web_URL[100]
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"App. (client) ID (Dataverse)"'
+  uid: F:TableExtension::Job_Setup.App#_(client)_ID_(Dataverse)[100]
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"Client Secret (Dataverse)"'
+  uid: F:TableExtension::Job_Setup.Client_Secret_(Dataverse)[100]
+- type:
+    internalReference: O:Enum::Ms_proj#_synch#_platform
+    name: '"Ms proj. synch. platform"'
+    isExternal: false
+  name: '"MS Project Platform"'
+  uid: F:TableExtension::Job_Setup.MS_Project_Platform
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"MS Project Online URL"'
+  uid: F:TableExtension::Job_Setup.MS_Project_Online_URL[100]
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"App. (client) ID (SP)"'
+  uid: F:TableExtension::Job_Setup.App#_(client)_ID_(SP)[100]
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"Client Secret (SP)"'
+  uid: F:TableExtension::Job_Setup.Client_Secret_(SP)[100]
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"MS Project Planner URL"'
+  uid: F:TableExtension::Job_Setup.MS_Project_Planner_URL[100]
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"App. (client) ID (Planner)"'
+  uid: F:TableExtension::Job_Setup.App#_(client)_ID_(Planner)[100]
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"Client Secret (Planner)"'
+  uid: F:TableExtension::Job_Setup.Client_Secret_(Planner)[100]
+commentId: O:TableExtension::Job Setup
+name: '"Job Setup"'
+uid: O:TableExtension::Job_Setup

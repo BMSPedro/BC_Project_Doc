@@ -1,0 +1,36 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"MS Project API Mngt"'
+alId: ID 70000
+baseKind: Codeunit
+kind: Codeunit
+parent: 'N:Module::MS_Project_Interface::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Codeunit](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-codeunit-object)'
+methods:
+- syntax:
+    content: 'procedure CallMSProjectRestAPI(msProjectId: Text)'
+    parameters:
+    - id: msProjectId
+      parameterType:
+        name: Text
+        isExternal: true
+  name: CallMSProjectRestAPI
+  uid: M:Codeunit::MS_Project_API_Mngt.CallMSProjectRestAPI(Text)
+- syntax:
+    content: 'procedure AcquireTokenOAuth2(var AuthError: Text): Text'
+    parameters:
+    - id: AuthError
+      parameterType:
+        name: Text
+        isExternal: true
+    return:
+      returnType:
+        name: Text
+        isExternal: true
+  name: AcquireTokenOAuth2
+  uid: M:Codeunit::MS_Project_API_Mngt.AcquireTokenOAuth2(Text@):Text
+commentId: O:Codeunit::MS Project API Mngt
+name: '"MS Project API Mngt"'
+uid: O:Codeunit::MS_Project_API_Mngt

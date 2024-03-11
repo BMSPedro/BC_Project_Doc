@@ -1,0 +1,103 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: E:Enum::Ms_proj#_synch#_platform.MS_Planner
+  name: "\"MS Planner\""
+  href: reference/ms-project-interface/Enum/Ms-proj.-synch.-platform.html
+- uid: E:Enum::Ms_proj#_synch#_platform.MS_Project_Online_(Sharepoint)
+  name: "\"MS Project Online (Sharepoint)\""
+  href: reference/ms-project-interface/Enum/Ms-proj.-synch.-platform.html
+- uid: E:Enum::Ms_proj#_synch#_platform.MS_Project_for_the_Web_(Dataverse)
+  name: "\"MS Project for the Web (Dataverse)\""
+  href: reference/ms-project-interface/Enum/Ms-proj.-synch.-platform.html
+- uid: E:Enum::Ms_proj#_synch#_platform._
+  name: "\" \""
+  href: reference/ms-project-interface/Enum/Ms-proj.-synch.-platform.html
+- uid: F:TableExtension::Job.Last_MS_Project_Update
+  name: "\"Last MS Project Update\""
+  href: reference/ms-project-interface/TableExtension/Job.html
+- uid: F:TableExtension::Job.MS_Project_Id[100]
+  name: "\"MS Project Id\""
+  href: reference/ms-project-interface/TableExtension/Job.html
+- uid: F:TableExtension::Job_Setup.App#_(client)_ID_(Dataverse)[100]
+  name: "\"App. (client) ID (Dataverse)\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.App#_(client)_ID_(Planner)[100]
+  name: "\"App. (client) ID (Planner)\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.App#_(client)_ID_(SP)[100]
+  name: "\"App. (client) ID (SP)\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.Client_Secret_(Dataverse)[100]
+  name: "\"Client Secret (Dataverse)\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.Client_Secret_(Planner)[100]
+  name: "\"Client Secret (Planner)\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.Client_Secret_(SP)[100]
+  name: "\"Client Secret (SP)\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.MS_Project_Online_URL[100]
+  name: "\"MS Project Online URL\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.MS_Project_Planner_URL[100]
+  name: "\"MS Project Planner URL\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.MS_Project_Platform
+  name: "\"MS Project Platform\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: F:TableExtension::Job_Setup.MS_Project_for_the_Web_URL[100]
+  name: "\"MS Project for the Web URL\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html
+- uid: M:Codeunit::MS_Planner_API_Mngt.AcquireTokenOAuth2(Text@):Text
+  name: AcquireTokenOAuth2
+  href: reference/ms-project-interface/Codeunit/MS-Planner-API-Mngt.html
+- uid: M:Codeunit::MS_Planner_API_Mngt.CallMSProjectRestAPI(Text)
+  name: CallMSProjectRestAPI
+  href: reference/ms-project-interface/Codeunit/MS-Planner-API-Mngt.html
+- uid: M:Codeunit::MS_Project_API_Mngt.AcquireTokenOAuth2(Text@):Text
+  name: AcquireTokenOAuth2
+  href: reference/ms-project-interface/Codeunit/MS-Project-API-Mngt.html
+- uid: M:Codeunit::MS_Project_API_Mngt.CallMSProjectRestAPI(Text)
+  name: CallMSProjectRestAPI
+  href: reference/ms-project-interface/Codeunit/MS-Project-API-Mngt.html
+- uid: M:Codeunit::MS_Project_Dataverse_API_Mngt.CallMSProjectRestAPI(Job)
+  name: CallMSProjectRestAPI
+  href: reference/ms-project-interface/Codeunit/MS-Project-Dataverse-API-Mngt.html
+- uid: N:Module::MS_Project_Interface
+  name: MS Project Interface
+  summary: ''
+  fqName: MS Project Interface by Axians BMS (1.0.0.0)
+  href: reference/ms-project-interface/Module/MS-Project-Interface.html
+- uid: O:Codeunit::MS_Planner_API_Mngt
+  name: "\"MS Planner API Mngt\""
+  fqName: "\"MS Planner API Mngt\""
+  href: reference/ms-project-interface/Codeunit/MS-Planner-API-Mngt.html
+- uid: O:Codeunit::MS_Project_API_Mngt
+  name: "\"MS Project API Mngt\""
+  fqName: "\"MS Project API Mngt\""
+  href: reference/ms-project-interface/Codeunit/MS-Project-API-Mngt.html
+- uid: O:Codeunit::MS_Project_Dataverse_API_Mngt
+  name: "\"MS Project Dataverse API Mngt\""
+  fqName: "\"MS Project Dataverse API Mngt\""
+  href: reference/ms-project-interface/Codeunit/MS-Project-Dataverse-API-Mngt.html
+- uid: O:Enum::Ms_proj#_synch#_platform
+  name: "\"Ms proj. synch. platform\""
+  fqName: "\"Ms proj. synch. platform\""
+  href: reference/ms-project-interface/Enum/Ms-proj.-synch.-platform.html
+- uid: O:PageExtension::Job_Card
+  name: "\"Job Card\""
+  fqName: "\"Job Card\""
+  href: reference/ms-project-interface/PageExtension/Job-Card.html
+- uid: O:PageExtension::Jobs_Setup
+  name: "\"Jobs Setup\""
+  fqName: "\"Jobs Setup\""
+  href: reference/ms-project-interface/PageExtension/Jobs-Setup.html
+- uid: O:TableExtension::Job
+  name: Job
+  fqName: Job
+  href: reference/ms-project-interface/TableExtension/Job.html
+- uid: O:TableExtension::Job_Setup
+  name: "\"Job Setup\""
+  fqName: "\"Job Setup\""
+  href: reference/ms-project-interface/TableExtension/Job-Setup.html

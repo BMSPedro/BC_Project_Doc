@@ -1,0 +1,16 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"Jobs Setup"'
+alId: ID 70002
+baseKind: Page
+kind: PageExtension
+parent: 'N:Module::MS_Project_Interface::Namespace::'
+langs:
+- al
+extends:
+  name: Microsoft.Projects.Project.Setup."Jobs Setup"
+  isExternal: true
+seeAlso:
+- '[Page Extension](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-page-ext-object)'
+commentId: O:PageExtension::Jobs Setup
+name: '"Jobs Setup"'
+uid: O:PageExtension::Jobs_Setup

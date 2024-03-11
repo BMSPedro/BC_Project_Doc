@@ -1,0 +1,26 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"Ms proj. synch. platform"'
+alId: ID 70000
+baseKind: Enum
+kind: Enum
+parent: 'N:Module::MS_Project_Interface::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Enum](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-extensible-enums)'
+objectProperties:
+- name: Extensible
+  value: "True"
+  promoted: true
+enumValues:
+- name: '" "'
+  uid: E:Enum::Ms_proj#_synch#_platform._
+- name: '"MS Project Online (Sharepoint)"'
+  uid: E:Enum::Ms_proj#_synch#_platform.MS_Project_Online_(Sharepoint)
+- name: '"MS Project for the Web (Dataverse)"'
+  uid: E:Enum::Ms_proj#_synch#_platform.MS_Project_for_the_Web_(Dataverse)
+- name: '"MS Planner"'
+  uid: E:Enum::Ms_proj#_synch#_platform.MS_Planner
+commentId: O:Enum::Ms proj# synch# platform
+name: '"Ms proj. synch. platform"'
+uid: O:Enum::Ms_proj#_synch#_platform

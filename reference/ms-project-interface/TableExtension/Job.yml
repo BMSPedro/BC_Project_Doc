@@ -1,0 +1,27 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: Job
+alId: ID 70000
+baseKind: Table
+kind: TableExtension
+parent: 'N:Module::MS_Project_Interface::Namespace::'
+langs:
+- al
+extends:
+  name: Microsoft.Projects.Project.Job.Job
+  isExternal: true
+seeAlso:
+- '[Table Extension](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-table-ext-object)'
+fields:
+- type:
+    name: Text[100]
+    isExternal: true
+  name: '"MS Project Id"'
+  uid: F:TableExtension::Job.MS_Project_Id[100]
+- type:
+    name: DateTime
+    isExternal: true
+  name: '"Last MS Project Update"'
+  uid: F:TableExtension::Job.Last_MS_Project_Update
+commentId: O:TableExtension::Job
+name: Job
+uid: O:TableExtension::Job

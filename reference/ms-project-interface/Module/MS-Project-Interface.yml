@@ -1,0 +1,14 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: MS Project Interface by Axians BMS (1.0.0.0)
+baseKind: Module
+kind: Module
+objectProperties:
+- name: Version
+  value: 1.0.0.0
+  promoted: false
+- name: Publisher
+  value: Axians BMS
+  promoted: false
+summary: ""
+name: MS Project Interface
+uid: N:Module::MS_Project_Interface
