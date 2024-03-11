@@ -1,0 +1,126 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/pedro.pereraaguila/Documents/AL/CBProject_Doc",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/Codeunit/MS-Planner-API-Mngt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/Codeunit/MS-Planner-API-Mngt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/Codeunit/MS-Project-API-Mngt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/Codeunit/MS-Project-API-Mngt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/Codeunit/MS-Project-Dataverse-API-Mngt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/Codeunit/MS-Project-Dataverse-API-Mngt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/Enum/Ms-proj.-synch.-platform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/Enum/Ms-proj.-synch.-platform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/Module/MS-Project-Interface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/Module/MS-Project-Interface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/PageExtension/Job-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/PageExtension/Job-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/PageExtension/Jobs-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/PageExtension/Jobs-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/TableExtension/Job-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/TableExtension/Job-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/ms-project-interface/TableExtension/Job.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ms-project-interface/TableExtension/Job.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
